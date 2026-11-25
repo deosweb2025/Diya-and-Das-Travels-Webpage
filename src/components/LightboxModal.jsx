@@ -174,7 +174,7 @@ export default function LightboxModal({
             <div className="flex items-center gap-2 shrink-0 w-full sm:w-auto justify-center sm:justify-end">
               <a
                 href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-                  `Hello Das Travels, I saw "${currentItem.title}" in your gallery and want to book a similar vehicle.`
+                  `Hello Diya & Das Travels, I saw "${currentItem.title}" in your gallery and want to book a similar vehicle.`
                 )}`}
                 target="_blank"
                 rel="noopener noreferrer"

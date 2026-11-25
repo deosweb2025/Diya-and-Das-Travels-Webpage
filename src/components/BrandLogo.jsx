@@ -129,11 +129,11 @@ export default function BrandLogo({
 
       {/* Brand Typographic Identity */}
       <div className={`flex flex-col ${orientation === "vertical" ? "items-center" : "min-w-0"}`}>
-        <div className="flex items-baseline gap-1.5 leading-none">
-          <span className={`font-black text-white tracking-tight ${titleSizes} drop-shadow-sm`}>
-            DAS
+        <div className="flex items-baseline gap-1.5 leading-none flex-wrap">
+          <span className={`font-black text-white tracking-tight ${titleSizes} drop-shadow-sm whitespace-nowrap`}>
+            DIYA & DAS
           </span>
-          <span className={`font-black gold-gradient-text tracking-tight ${titleSizes}`}>
+          <span className={`font-black gold-gradient-text tracking-tight ${titleSizes} whitespace-nowrap`}>
             TRAVELS
           </span>
         </div>

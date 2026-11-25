@@ -92,7 +92,7 @@ export default function Services() {
           eyebrow="⭐ VIP Fleet Solutions • What We Offer"
           title="Tailored Travel & Transportation"
           highlight="Services"
-          description="From fast city cab dispatch to interstate holiday tours and royal wedding fleets, Das Travels has you covered across West Bengal & Pan-India."
+          description="From fast city cab dispatch to interstate holiday tours and royal wedding fleets, Diya & Das Travels has you covered across West Bengal & Pan-India."
         />
 
         {/* Services Grid with Continuous Rotating Border Animation */}
@@ -166,7 +166,7 @@ export default function Services() {
                   <div className="pt-4 border-t border-white/10 flex items-center justify-between gap-2.5">
                     <a
                       href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-                        `Hello Das Travels, I want to book: ${service.title}. Please provide rates and details.`
+                        `Hello Diya & Das Travels, I want to book: ${service.title}. Please provide rates and details.`
                       )}`}
                       target="_blank"
                       rel="noopener noreferrer"

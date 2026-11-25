@@ -166,7 +166,7 @@ export default function LocationSection() {
           {/* Right Column: Google Maps Interactive Embed */}
           <div className="location-map-frame lg:col-span-7 rounded-2xl overflow-hidden border border-white/15 shadow-2xl relative min-h-[420px] bg-[#121E33] w-full">
             <iframe
-              title="Google Map Location of Das Travels, Bhadrabari More, Nabapally, Barasat"
+              title="Google Map Location of Diya & Das Travels, Bhadrabari More, Nabapally, Barasat"
               src="https://maps.google.com/maps?q=Bhadrabari+More,+Nabapally,+Barasat,+Kolkata,+West+Bengal+700126&t=&z=15&ie=UTF8&iwloc=&output=embed"
               className="w-full h-full min-h-[420px] border-0 filter contrast-105"
               loading="lazy"
@@ -176,7 +176,7 @@ export default function LocationSection() {
 
             {/* Map Overlay Badge */}
             <div className="absolute top-4 left-4 bg-[#111C30]/95 border border-amber-400/30 px-4 py-2.5 rounded-xl backdrop-blur-md text-xs text-white shadow-xl pointer-events-none">
-              <span className="font-black text-amber-400 block text-sm">DAS TRAVELS</span>
+              <span className="font-black text-amber-400 block text-sm">DIYA & DAS TRAVELS</span>
               <span className="text-xs text-slate-300">Nabapally, Barasat 700126</span>
             </div>
           </div>

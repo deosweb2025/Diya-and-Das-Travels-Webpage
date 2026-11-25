@@ -188,7 +188,7 @@ export default function Gallery() {
                 <div className="w-full flex items-center gap-2 pt-3 border-t border-white/10">
                   <a
                     href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-                      `Hello Das Travels, I want to inquire about vehicles in ${activeCategory}.`
+                      `Hello Diya & Das Travels, I want to inquire about vehicles in ${activeCategory}.`
                     )}`}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -228,7 +228,7 @@ export default function Gallery() {
 
           <a
             href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-              "Hello Das Travels, I would like to book a trip from your fleet gallery."
+              "Hello Diya & Das Travels, I would like to book a trip from your fleet gallery."
             )}`}
             target="_blank"
             rel="noopener noreferrer"

@@ -70,9 +70,9 @@ export default function WhyChooseUs() {
     <section id="why-us" ref={sectionRef} className="py-20 sm:py-24 bg-gradient-to-b from-[#121E34] via-[#172845] to-[#132037] relative overflow-hidden w-full">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <SectionHeading
-          eyebrow="The Das Travels Advantage"
+          eyebrow="The Diya & Das Travels Advantage"
           title="Why Commuters & Families Choose"
-          highlight="Das Travels"
+          highlight="Diya & Das Travels"
           description="Built on punctuality, pristine safety standards, and transparent fares—trusted across Barasat and Kolkata."
         />
 
@@ -138,7 +138,7 @@ export default function WhyChooseUs() {
                   </span>
                   <a
                     href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-                      `Hello Das Travels, I want to inquire about a cab from ${route.from} to ${route.to}.`
+                      `Hello Diya & Das Travels, I want to inquire about a cab from ${route.from} to ${route.to}.`
                     )}`}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -159,7 +159,7 @@ export default function WhyChooseUs() {
               Verified Feedback
             </span>
             <h3 className="text-2xl sm:text-3xl font-extrabold text-white mt-1">
-              What Travelers Say About Das Travels
+              What Travelers Say About Diya & Das Travels
             </h3>
           </div>
 

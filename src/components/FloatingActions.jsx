@@ -29,7 +29,7 @@ export default function FloatingActions() {
         onMouseEnter={() => setCallHovered(true)}
         onMouseLeave={() => setCallHovered(false)}
         className="group relative flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 rounded-full bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 shadow-2xl shadow-amber-500/40 hover:shadow-amber-500/60 transform hover:scale-110 active:scale-95 transition-all duration-300 border-2 border-white/25"
-        aria-label="Call Das Travels now"
+        aria-label="Call Diya & Das Travels now"
       >
         <Phone className="w-5 h-5 sm:w-6 sm:h-6 stroke-[2.5]" />
         
@@ -56,7 +56,7 @@ export default function FloatingActions() {
         onMouseEnter={() => setWaHovered(true)}
         onMouseLeave={() => setWaHovered(false)}
         className="group relative flex items-center justify-center w-11 h-11 sm:w-14 sm:h-14 rounded-full bg-[#25D366] hover:bg-[#20bd5a] text-white shadow-2xl shadow-[#25D366]/40 hover:shadow-[#25D366]/60 transform hover:scale-110 active:scale-95 transition-all duration-300 border-2 border-white/25"
-        aria-label="Chat on WhatsApp with Das Travels"
+        aria-label="Chat on WhatsApp with Diya & Das Travels"
       >
         <WhatsAppIcon className="w-5 h-5 sm:w-6 sm:h-6" />
 

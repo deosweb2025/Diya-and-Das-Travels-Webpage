@@ -1,11 +1,11 @@
 export const siteData = {
   company: {
-    name: "DAS TRAVELS",
+    name: "DIYA & DAS TRAVELS",
     owner: "Ranjit Das",
     tagline: "Safe Journey, Happy Memories",
     subTagline: "We Take You Places — Your Journey, Our Priority",
     description:
-      "Premier car rental, outstation tour operator, and luxury fleet provider based in Barasat, Kolkata. Spearheaded by Ranjit Das, Das Travels delivers spotless hatchbacks, premium sedans, Toyota Innova Crysta, 17-seater Tempo Travellers, and luxury AC tourist coaches for local, outstation, wedding, airport, and Pan-India journeys.",
+      "Premier car rental, outstation tour operator, and luxury fleet provider based in Barasat, Kolkata. Spearheaded by Ranjit Das, Diya & Das Travels delivers spotless hatchbacks, premium sedans, Toyota Innova Crysta, 17-seater Tempo Travellers, and luxury AC tourist coaches for local, outstation, wedding, airport, and Pan-India journeys.",
     experienceBadge: "Trusted Across West Bengal & Pan-India",
     availability: "24/7 All-Day & Night Service",
   },
@@ -18,7 +18,7 @@ export const siteData = {
     email: "ronodas1472@gmail.com",
     whatsapp: "919051711849",
     whatsappMessage:
-      "Hello Das Travels, I would like to inquire about booking a vehicle.",
+      "Hello Diya & Das Travels, I would like to inquire about booking a vehicle.",
   },
 
   location: {
@@ -44,7 +44,7 @@ export const siteData = {
 
   hero: {
     eyebrow: "★ OFFICIAL TOUR & TRAVEL SERVICE IN BARASAT, KOLKATA",
-    titlePrimary: "DAS TRAVELS",
+    titlePrimary: "DIYA & DAS TRAVELS",
     titleHighlight: "Safe Journey, Happy Memories",
     description:
       "Comfortable, reliable, and affordable car rental & luxury coach services for local trips, Kolkata Airport pickups, outstation vacations, and royal wedding ceremonies across West Bengal & all over India.",
@@ -61,21 +61,21 @@ export const siteData = {
       {
         image: "/assets/enhanced/hero_fleet.webp",
         fallback: "/assets/enhanced/hero_fleet.jpg",
-        alt: "Das Travels Fleet Lineup and Brand Showcase",
-        badge: "Official Das Travels Fleet",
+        alt: "Diya & Das Travels Fleet Lineup and Brand Showcase",
+        badge: "Official Diya & Das Travels Fleet",
         caption: "Local, Outstation, Corporate & Tour Packages All Over India",
       },
       {
         image: "/assets/enhanced/hero_coach.webp",
         fallback: "/assets/enhanced/hero_coach.jpg",
-        alt: "Das Travels Luxury Tata AC Tourist Coach Bus",
+        alt: "Diya & Das Travels Luxury Tata AC Tourist Coach Bus",
         badge: "Luxury Group Excursions",
         caption: "Tata Starbus Prime AC Coach for Weddings, Pilgrimages & Tours",
       },
       {
         image: "/assets/enhanced/hero_innova.webp",
         fallback: "/assets/enhanced/hero_innova.jpg",
-        alt: "Das Travels Decorated Wedding Innova Crysta",
+        alt: "Diya & Das Travels Decorated Wedding Innova Crysta",
         badge: "Wedding & VIP Luxury Travel",
         caption: "Spotless White Innova Crysta with Designer Floral Decor",
       },
@@ -84,10 +84,10 @@ export const siteData = {
 
   about: {
     heading: "Driven by Trust, Powered by Excellence",
-    subheading: "About Das Travels & Ranjit Das",
+    subheading: "About Diya & Das Travels & Ranjit Das",
     paragraphs: [
-      "Founded by Ranjit Das, DAS TRAVELS has grown into one of Barasat and Kolkata's most dependable and customer-centric travel solutions. Operating from Bhadrabari More, Nabapally (near Axis Bank ATM), we take pride in delivering spotless vehicles, transparent fares, and courteous chauffeurs.",
-      "Whether you need an early-morning airport transfer to Netaji Subhash Chandra Bose International Airport (CCU), a family weekend excursion to Digha or Mandarmani, an executive sedan for corporate travel, or a fleet of decorated Innova Crystas and luxury AC coaches for wedding processions, Das Travels ensures unmatched comfort, safety, and punctuality.",
+      "Founded by Ranjit Das, DIYA & DAS TRAVELS has grown into one of Barasat and Kolkata's most dependable and customer-centric travel solutions. Operating from Bhadrabari More, Nabapally (near Axis Bank ATM), we take pride in delivering spotless vehicles, transparent fares, and courteous chauffeurs.",
+      "Whether you need an early-morning airport transfer to Netaji Subhash Chandra Bose International Airport (CCU), a family weekend excursion to Digha or Mandarmani, an executive sedan for corporate travel, or a fleet of decorated Innova Crystas and luxury AC coaches for wedding processions, Diya & Das Travels ensures unmatched comfort, safety, and punctuality.",
       "Our motto is simple: 'Safe Journey, Happy Memories'. Every vehicle is rigorously inspected, thoroughly sanitized, and operated by seasoned professional drivers with in-depth knowledge of local routes and national highways.",
     ],
     highlights: [
@@ -266,7 +266,7 @@ export const siteData = {
       id: 1,
       src: "/assets/enhanced/pic7.webp",
       fallback: "/assets/enhanced/pic7.jpg",
-      title: "Das Travels Official Fleet Showcase",
+      title: "Diya & Das Travels Official Fleet Showcase",
       category: "Brand & Fleet",
       desc: "Our complete lineup from Swift, Dzire, Scorpio, Innova Crysta, Force 17-Seater to Luxury Bus.",
     },
@@ -330,7 +330,7 @@ export const siteData = {
       id: 9,
       src: "/assets/enhanced/pic1.webp",
       fallback: "/assets/enhanced/pic1.jpg",
-      title: "Das Travels Official Office Banner",
+      title: "Diya & Das Travels Official Office Banner",
       category: "Brand & Fleet",
       desc: "Our booking desk display in Barasat showcasing Force Traveller and SUVs.",
     },
@@ -340,7 +340,7 @@ export const siteData = {
       fallback: "/assets/enhanced/pic2.jpg",
       title: "Booking Hotline Display",
       category: "Brand & Fleet",
-      desc: "Das Travels official contact numbers 8240572061 / 9051711849.",
+      desc: "Diya & Das Travels official contact numbers 8240572061 / 9051711849.",
     },
     {
       id: 11,
@@ -474,7 +474,7 @@ export const siteData = {
       id: 27,
       src: "/assets/enhanced/hero_fleet.webp",
       fallback: "/assets/enhanced/hero_fleet.jpg",
-      title: "Das Travels Official Multi-Segment Fleet",
+      title: "Diya & Das Travels Official Multi-Segment Fleet",
       category: "Brand & Fleet",
       desc: "Panoramic commercial highway showcase of our complete car, SUV, and coach fleet.",
     },
@@ -566,7 +566,7 @@ export const siteData = {
       location: "Barasat, Kolkata",
       role: "Family Vacation to Digha",
       quote:
-        "Booked an Innova Crysta from Das Travels for a 3-day family trip to Digha. The car was spotless, AC was chilled, and Mr. Ranjit Das provided an exceptional driver who drove very smoothly and safely. Highly recommended!",
+        "Booked an Innova Crysta from Diya & Das Travels for a 3-day family trip to Digha. The car was spotless, AC was chilled, and Mr. Ranjit Das provided an exceptional driver who drove very smoothly and safely. Highly recommended!",
       rating: 5,
     },
     {
@@ -574,7 +574,7 @@ export const siteData = {
       location: "Nabapally, Barasat",
       role: "Wedding Car Booking",
       quote:
-        "We needed a decorated luxury car for my brother's wedding ceremony. Das Travels arranged a pristine white Innova Crysta beautifully decorated with fresh flowers. Arrived 30 minutes before time. Fantastic service!",
+        "We needed a decorated luxury car for my brother's wedding ceremony. Diya & Das Travels arranged a pristine white Innova Crysta beautifully decorated with fresh flowers. Arrived 30 minutes before time. Fantastic service!",
       rating: 5,
     },
     {
@@ -582,14 +582,14 @@ export const siteData = {
       location: "Salt Lake, Kolkata",
       role: "Airport & Corporate Transfer",
       quote:
-        "Whenever our out-of-town corporate guests land at Kolkata Airport at odd midnight hours, Das Travels is our go-to cab service. Professional, zero delay, and polite drivers with fair pricing.",
+        "Whenever our out-of-town corporate guests land at Kolkata Airport at odd midnight hours, Diya & Das Travels is our go-to cab service. Professional, zero delay, and polite drivers with fair pricing.",
       rating: 5,
     },
   ],
 
   faq: [
     {
-      q: "How can I book a cab or bus with Das Travels?",
+      q: "How can I book a cab or bus with Diya & Das Travels?",
       a: "Booking is effortless! You can call us directly on 9051711849 or 8240572061, or click the WhatsApp button to send your pickup location, destination, date, and preferred vehicle. We confirm your booking in minutes.",
     },
     {

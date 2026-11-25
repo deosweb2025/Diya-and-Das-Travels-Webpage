@@ -11,7 +11,7 @@ export default function QuickBookingBar() {
 
   const handleBookingSubmit = (e) => {
     e.preventDefault();
-    const message = `Hello Das Travels (Ranjit Das),\nI would like to inquire about a cab/vehicle booking:\n• Pickup: ${pickup}\n• Destination: ${destination}\n• Date: ${date || "Flexible / Immediate"}\n• Vehicle: ${vehicle}\n• Trip Type: ${tripType}\nPlease share fare quote and vehicle availability.`;
+    const message = `Hello Diya & Das Travels (Ranjit Das),\nI would like to inquire about a cab/vehicle booking:\n• Pickup: ${pickup}\n• Destination: ${destination}\n• Date: ${date || "Flexible / Immediate"}\n• Vehicle: ${vehicle}\n• Trip Type: ${tripType}\nPlease share fare quote and vehicle availability.`;
     const whatsappUrl = `https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, "_blank");
   };
@@ -30,7 +30,7 @@ export default function QuickBookingBar() {
               <span>VIP Rapid Fare Estimate & Instant Dispatch</span>
             </span>
             <h3 className="text-lg sm:text-2xl font-black text-white tracking-tight">
-              Plan Your Journey with <span className="gold-gradient-text">Das Travels</span>
+              Plan Your Journey with <span className="gold-gradient-text">Diya & Das Travels</span>
             </h3>
           </div>
 

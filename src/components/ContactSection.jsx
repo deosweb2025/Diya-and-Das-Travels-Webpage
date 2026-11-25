@@ -50,7 +50,7 @@ export default function ContactSection() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const text = `Hello Das Travels (Ranjit Das),\nNew Inquiry from Website:\n• Name: ${formData.name}\n• Phone: ${formData.phone}\n• Service: ${formData.service}\n• Travel Date: ${formData.date || "Not specified"}\n• Message / Route: ${formData.message}`;
+    const text = `Hello Diya & Das Travels (Ranjit Das),\nNew Inquiry from Website:\n• Name: ${formData.name}\n• Phone: ${formData.phone}\n• Service: ${formData.service}\n• Travel Date: ${formData.date || "Not specified"}\n• Message / Route: ${formData.message}`;
     const whatsappUrl = `https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(text)}`;
     window.open(whatsappUrl, "_blank");
     setSubmitted(true);
@@ -95,7 +95,7 @@ export default function ContactSection() {
         <SectionHeading
           eyebrow="👑 24/7 VIP CONCIERGE & DISPATCH HUB"
           title="Connect with Ranjit Das &"
-          highlight="Das Travels"
+          highlight="Diya & Das Travels"
           description="Have questions about fares, vehicle availability, or customized holiday tours? Call, WhatsApp, or visit our booking desk in Barasat."
         />
 
@@ -374,7 +374,7 @@ export default function ContactSection() {
           className="mb-14 sm:mb-20 relative p-[2px] rounded-3xl overflow-hidden shadow-2xl border border-white/15 hover:border-amber-400/40 transition-colors bg-[#0D1829] w-full scroll-mt-28"
         >
           <iframe
-            title="Google Map Location of Das Travels, Bhadrabari More, Nabapally, Barasat"
+            title="Google Map Location of Diya & Das Travels, Bhadrabari More, Nabapally, Barasat"
             src="https://maps.google.com/maps?q=Bhadrabari+More,+Nabapally,+Barasat,+Kolkata,+West+Bengal+700126&t=&z=15&ie=UTF8&iwloc=&output=embed"
             className="w-full h-full min-h-[340px] sm:min-h-[420px] border-0 filter contrast-105"
             loading="lazy"
@@ -385,7 +385,7 @@ export default function ContactSection() {
           {/* Floating Luxury Location Pill */}
           <div className="absolute top-4 left-4 bg-[#0A1322]/95 border border-amber-400/35 px-4 py-3 rounded-2xl backdrop-blur-xl text-xs text-white shadow-2xl pointer-events-none max-w-xs sm:max-w-sm">
             <span className="font-black text-amber-400 block text-xs sm:text-sm tracking-wide">
-              DAS TRAVELS • HEADQUARTERS
+              DIYA & DAS TRAVELS • HEADQUARTERS
             </span>
             <span className="text-[11.5px] text-slate-300 block mt-0.5 font-medium">
               Bhadrabari More, Nabapally (Near Axis Bank ATM), Barasat, Kolkata 700126

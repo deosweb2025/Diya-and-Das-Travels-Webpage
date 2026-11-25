@@ -57,7 +57,7 @@ export default function Navbar() {
           <a
             href="#hero"
             className="focus:outline-none shrink group py-0.5"
-            aria-label="Das Travels Home"
+            aria-label="Diya & Das Travels Home"
           >
             <BrandLogo size="md" showTagline={true} />
           </a>

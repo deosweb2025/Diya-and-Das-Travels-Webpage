@@ -195,7 +195,7 @@ export default function FleetShowcase() {
               <div className="p-6 sm:p-7 pt-0 flex items-center gap-2.5">
                 <a
                   href={`https://wa.me/${siteData.contact.whatsapp}?text=${encodeURIComponent(
-                    `Hello Das Travels, I am interested in booking: ${vehicle.name} (${vehicle.category}). Please let me know rates and availability.`
+                    `Hello Diya & Das Travels, I am interested in booking: ${vehicle.name} (${vehicle.category}). Please let me know rates and availability.`
                   )}`}
                   target="_blank"
                   rel="noopener noreferrer"

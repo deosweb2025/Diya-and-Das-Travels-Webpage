@@ -129,7 +129,7 @@ export default function Hero() {
             <div>
               <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight leading-[1.08] mb-1 sm:mb-2 break-words">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-100 to-amber-200 drop-shadow-[0_4px_25px_rgba(245,158,11,0.25)]">
-                  DAS TRAVELS
+                  DIYA & DAS TRAVELS
                 </span>
               </h1>
               

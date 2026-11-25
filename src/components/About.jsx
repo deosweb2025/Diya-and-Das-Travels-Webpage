@@ -89,7 +89,7 @@ export default function About() {
                   <source srcSet="/assets/enhanced/about_hospitality.webp" type="image/webp" />
                   <img
                     src="/assets/enhanced/about_hospitality.jpg"
-                    alt="Das Travels Chauffeur Hospitality & Executive Travel"
+                    alt="Diya & Das Travels Chauffeur Hospitality & Executive Travel"
                     className="w-full h-72 sm:h-96 md:h-[420px] object-cover object-center transform group-hover:scale-105 transition-transform duration-700 filter brightness-[0.98] contrast-[1.05]"
                     loading="lazy"
                   />
@@ -116,7 +116,7 @@ export default function About() {
                   <source srcSet="/assets/enhanced/hero_innova.webp" type="image/webp" />
                   <img
                     src="/assets/enhanced/hero_innova.jpg"
-                    alt="Das Travels Flagship Innova Crysta"
+                    alt="Diya & Das Travels Flagship Innova Crysta"
                     className="w-full h-24 sm:h-36 object-cover"
                     loading="lazy"
                   />

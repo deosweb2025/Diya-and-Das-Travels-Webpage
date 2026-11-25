@@ -70,7 +70,7 @@ export default function Footer() {
             <ul className="space-y-2.5 text-xs sm:text-sm font-medium">
               {[
                 { name: "Home", href: "#hero" },
-                { name: "About Das Travels", href: "#about" },
+                { name: "About Diya & Das Travels", href: "#about" },
                 { name: "Our Services", href: "#services" },
                 { name: "Fleet & Rates", href: "#fleet" },
                 { name: "Photo Gallery", href: "#gallery" },
